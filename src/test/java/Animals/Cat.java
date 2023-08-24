@@ -1,10 +1,9 @@
 package Animals;
 
+public class Cat {
 
-public class Dog {
     public static void main(String[] args) {
-
-        System.out.println("Dogs are so cute");
+        System.out.println("I hate cats");
 
     }
 }
